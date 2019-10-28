@@ -1,0 +1,19 @@
+.pricing {
+    margin-bottom: 4rem;
+    font-family: var(--font-open-sans);
+  }
+  .pricing h2:first-child {
+    font-size: 2.5rem;
+    border-bottom: 1px solid #4769EF;
+    padding-bottom: 10px;
+    font-weight: 400;
+    margin-bottom: 4rem;
+    color: #4769EF;
+  }
+  
+  .pricing_container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  

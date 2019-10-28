@@ -1,0 +1,20 @@
+.video {
+    margin-bottom: 4rem;
+    font-family: var(--font-open-sans);
+  }
+  
+  .video h2:first-child {
+    font-size: 2.5rem;
+    border-bottom: 1px solid #4769EF;
+    padding-bottom: 10px;
+    font-weight: 400;
+    margin-bottom: 4rem;
+    color: #4769EF;
+  }
+  
+  .video_item {
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+  }
+  
